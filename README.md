@@ -1,3 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6cc644&height=300&section=header&text=Hi%20There)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+<br>
+<a href="https://gist.github.com/nockn" target="_blank"><img src="https://img.shields.io/badge/Hi-There-89e051.svg?longCache=true" text-align="center"></a>
+<a href="https://gist.github.com/nockn" target="_blank"><img src="https://img.shields.io/badge/GithubGist-nockn-a9a9a9.svg?longCache=true"></a>
+<br>
+<hr width="3%" style="height:3px;">
+<br>
+<img src="./profile-3d-contrib/profile-green.svg" class="svg">
