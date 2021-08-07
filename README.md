@@ -1,7 +1,7 @@
 <br>
 <!---Hi There--->
 <a href="https://github.com/nockn" target="_self"><img src="https://img.shields.io/badge/Hi-There-89e051.svg?longCache=true?style=flat" alt="Hi there👋"></a>
-<a href="https://wikiwiki.jp/boudai/カイル君" target="_blank"><img src="https://img.shields.io/badge/自宅で簡単-イルカセラピー-0099ff.svg?longCache=true?style=flat" alt="かつてライオンとも熊とも戦っていた勇敢な犬・サモエド🐩"></a>
+<a href="https://wikiwiki.jp/boudai/カイル君" target="_blank"><img src="https://img.shields.io/badge/自宅で簡単-イルカセラピー-0099ff.svg?longCache=true?style=flat" alt="かつて熊とライオンとも戦っていた勇敢な犬・サモエド🐩"></a>
 <br><br>
 
 <!---SNS--->
