@@ -1,7 +1,7 @@
 <br>
 <!---Hi There--->
 <a href="https://github.com/nockn" target="_self"><img src="https://img.shields.io/badge/Hi-There-89e051.svg?longCache=true?style=flat" alt="Hi there👋"></a>
-<a href="https://www.amazon.co.jp/dp/B00069BPDQ/ref=cm_sw_r_tw_dp_9A09MARDDZN8Y2XGX9SZ" target="_blank"><img src="https://img.shields.io/badge/masterブランチで作業だと!-許せるッ!!-df1f2d.svg?longCache=true?style=flat" alt="ﾁｪﾝｼﾞﾚｵﾊﾟﾙﾄﾞﾝ"></a>
+<a href="http://hoshiiro.jp" target="_blank"><img src="https://img.shields.io/badge/[再放送]-[再放送]-df1f2d.svg?longCache=true?style=flat" alt="ﾁｪﾝｼﾞﾚｵﾊﾟﾙﾄﾞﾝ"></a>
 <br><br>
 
 <!---SNS--->
