@@ -15,6 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: ".github/workflows/style.json"
       - name: Commit & Push
         run: |
           git config user.name github-actions
